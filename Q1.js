@@ -22,3 +22,7 @@ function reverseInteger(){
     return reversedInt;
 
 }
+
+//example usage
+console.log(reverseInteger(50)); //5
+console.log(reverseInteger(-12)); //-21
