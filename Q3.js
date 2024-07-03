@@ -33,3 +33,7 @@ function mostFrequentChar(str){
             }
       }
 }
+
+//example usage:
+console.log(mostFrequentChar('11189')); //1
+console.log(mostFrequentChar('hello')); //l
